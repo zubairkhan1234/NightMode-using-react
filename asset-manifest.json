@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/zubairkhan1234.github.io/facebook-card-using-react/static/css/main.516a23e8.chunk.css",
-    "main.js": "/zubairkhan1234.github.io/facebook-card-using-react/static/js/main.1cc9eeb1.chunk.js",
-    "main.js.map": "/zubairkhan1234.github.io/facebook-card-using-react/static/js/main.1cc9eeb1.chunk.js.map",
-    "runtime-main.js": "/zubairkhan1234.github.io/facebook-card-using-react/static/js/runtime-main.c32b098f.js",
-    "runtime-main.js.map": "/zubairkhan1234.github.io/facebook-card-using-react/static/js/runtime-main.c32b098f.js.map",
-    "static/js/2.96b538e5.chunk.js": "/zubairkhan1234.github.io/facebook-card-using-react/static/js/2.96b538e5.chunk.js",
-    "static/js/2.96b538e5.chunk.js.map": "/zubairkhan1234.github.io/facebook-card-using-react/static/js/2.96b538e5.chunk.js.map",
-    "index.html": "/zubairkhan1234.github.io/facebook-card-using-react/index.html",
-    "static/css/main.516a23e8.chunk.css.map": "/zubairkhan1234.github.io/facebook-card-using-react/static/css/main.516a23e8.chunk.css.map",
-    "static/js/2.96b538e5.chunk.js.LICENSE.txt": "/zubairkhan1234.github.io/facebook-card-using-react/static/js/2.96b538e5.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/zubairkhan1234.github.io/facebook-card-using-react/static/media/logo.6ce24c58.svg"
+    "main.css": "/facebook-card-using-react/static/css/main.516a23e8.chunk.css",
+    "main.js": "/facebook-card-using-react/static/js/main.1cc9eeb1.chunk.js",
+    "main.js.map": "/facebook-card-using-react/static/js/main.1cc9eeb1.chunk.js.map",
+    "runtime-main.js": "/facebook-card-using-react/static/js/runtime-main.a5cbe394.js",
+    "runtime-main.js.map": "/facebook-card-using-react/static/js/runtime-main.a5cbe394.js.map",
+    "static/js/2.96b538e5.chunk.js": "/facebook-card-using-react/static/js/2.96b538e5.chunk.js",
+    "static/js/2.96b538e5.chunk.js.map": "/facebook-card-using-react/static/js/2.96b538e5.chunk.js.map",
+    "index.html": "/facebook-card-using-react/index.html",
+    "static/css/main.516a23e8.chunk.css.map": "/facebook-card-using-react/static/css/main.516a23e8.chunk.css.map",
+    "static/js/2.96b538e5.chunk.js.LICENSE.txt": "/facebook-card-using-react/static/js/2.96b538e5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/facebook-card-using-react/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c32b098f.js",
+    "static/js/runtime-main.a5cbe394.js",
     "static/js/2.96b538e5.chunk.js",
     "static/css/main.516a23e8.chunk.css",
     "static/js/main.1cc9eeb1.chunk.js"
