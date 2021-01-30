@@ -1,8 +1,8 @@
 {
   "name": "hello",
   "version": "0.1.0",
-  "homepage": "https://zubairkhan1234.github.io/facebook-card-using-react",
   "private": true,
+  "homepage": "https://zubairkhan1234.github.io/facebook-card-using-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
